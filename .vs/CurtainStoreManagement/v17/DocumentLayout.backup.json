@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JenkinsAssessment\\CurtainStoreManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{044D3085-1D9B-426D-9915-EDA2ACDDB2C0}|CurtainControllerTest\\CurtainControllerTest.csproj|d:\\jenkinsassessment\\curtainstoremanagement\\curtaincontrollertest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044D3085-1D9B-426D-9915-EDA2ACDDB2C0}|CurtainControllerTest\\CurtainControllerTest.csproj|solutionrelative:curtaincontrollertest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C7FE01-D488-4F9A-8ADC-C08BB84D28B1}|CurtainStoreManagement\\CurtainStoreManagement.csproj|d:\\jenkinsassessment\\curtainstoremanagement\\curtainstoremanagement\\controllers\\curtaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C7FE01-D488-4F9A-8ADC-C08BB84D28B1}|CurtainStoreManagement\\CurtainStoreManagement.csproj|solutionrelative:curtainstoremanagement\\controllers\\curtaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C7FE01-D488-4F9A-8ADC-C08BB84D28B1}|CurtainStoreManagement\\CurtainStoreManagement.csproj|d:\\jenkinsassessment\\curtainstoremanagement\\curtainstoremanagement\\models\\curtain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C7FE01-D488-4F9A-8ADC-C08BB84D28B1}|CurtainStoreManagement\\CurtainStoreManagement.csproj|solutionrelative:curtainstoremanagement\\models\\curtain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C7FE01-D488-4F9A-8ADC-C08BB84D28B1}|CurtainStoreManagement\\CurtainStoreManagement.csproj|d:\\jenkinsassessment\\curtainstoremanagement\\curtainstoremanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6C7FE01-D488-4F9A-8ADC-C08BB84D28B1}|CurtainStoreManagement\\CurtainStoreManagement.csproj|solutionrelative:curtainstoremanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C7FE01-D488-4F9A-8ADC-C08BB84D28B1}|CurtainStoreManagement\\CurtainStoreManagement.csproj|d:\\jenkinsassessment\\curtainstoremanagement\\curtainstoremanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C7FE01-D488-4F9A-8ADC-C08BB84D28B1}|CurtainStoreManagement\\CurtainStoreManagement.csproj|solutionrelative:curtainstoremanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044D3085-1D9B-426D-9915-EDA2ACDDB2C0}|CurtainControllerTest\\CurtainControllerTest.csproj|d:\\jenkinsassessment\\curtainstoremanagement\\curtaincontrollertest\\curtaincontrollertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{044D3085-1D9B-426D-9915-EDA2ACDDB2C0}|CurtainControllerTest\\CurtainControllerTest.csproj|solutionrelative:curtaincontrollertest\\curtaincontrollertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C7FE01-D488-4F9A-8ADC-C08BB84D28B1}|CurtainStoreManagement\\CurtainStoreManagement.csproj|d:\\jenkinsassessment\\curtainstoremanagement\\curtainstoremanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C7FE01-D488-4F9A-8ADC-C08BB84D28B1}|CurtainStoreManagement\\CurtainStoreManagement.csproj|solutionrelative:curtainstoremanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C7FE01-D488-4F9A-8ADC-C08BB84D28B1}|CurtainStoreManagement\\CurtainStoreManagement.csproj|d:\\jenkinsassessment\\curtainstoremanagement\\curtainstoremanagement\\curtainstoremanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6C7FE01-D488-4F9A-8ADC-C08BB84D28B1}|CurtainStoreManagement\\CurtainStoreManagement.csproj|solutionrelative:curtainstoremanagement\\curtainstoremanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 266,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainStoreManagement\\Program.cs",
+              "RelativeDocumentMoniker": "CurtainStoreManagement\\Program.cs",
+              "ToolTip": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainStoreManagement\\Program.cs",
+              "RelativeToolTip": "CurtainStoreManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T05:34:02.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurtainStoreManagement.csproj",
+              "DocumentMoniker": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainStoreManagement\\CurtainStoreManagement.csproj",
+              "RelativeDocumentMoniker": "CurtainStoreManagement\\CurtainStoreManagement.csproj",
+              "ToolTip": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainStoreManagement\\CurtainStoreManagement.csproj",
+              "RelativeToolTip": "CurtainStoreManagement\\CurtainStoreManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-09T05:32:05.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurtainControllerTest.csproj",
+              "DocumentMoniker": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainControllerTest\\CurtainControllerTest.csproj",
+              "RelativeDocumentMoniker": "CurtainControllerTest\\CurtainControllerTest.csproj",
+              "ToolTip": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainControllerTest\\CurtainControllerTest.csproj",
+              "RelativeToolTip": "CurtainControllerTest\\CurtainControllerTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-09T05:23:45.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainControllerTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CurtainControllerTest\\UnitTest1.cs",
+              "ToolTip": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainControllerTest\\UnitTest1.cs",
+              "RelativeToolTip": "CurtainControllerTest\\UnitTest1.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T05:09:30.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainStoreManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "CurtainStoreManagement\\appsettings.json",
+              "ToolTip": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainStoreManagement\\appsettings.json",
+              "RelativeToolTip": "CurtainStoreManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T07:02:28.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurtainController.cs",
+              "DocumentMoniker": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainStoreManagement\\Controllers\\CurtainController.cs",
+              "RelativeDocumentMoniker": "CurtainStoreManagement\\Controllers\\CurtainController.cs",
+              "ToolTip": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainStoreManagement\\Controllers\\CurtainController.cs",
+              "RelativeToolTip": "CurtainStoreManagement\\Controllers\\CurtainController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:30:32.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainStoreManagement\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "CurtainStoreManagement\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainStoreManagement\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "CurtainStoreManagement\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:27:22.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Curtain.cs",
+              "DocumentMoniker": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainStoreManagement\\Models\\Curtain.cs",
+              "RelativeDocumentMoniker": "CurtainStoreManagement\\Models\\Curtain.cs",
+              "ToolTip": "D:\\JenkinsAssessment\\CurtainStoreManagement\\CurtainStoreManagement\\Models\\Curtain.cs",
+              "RelativeToolTip": "CurtainStoreManagement\\Models\\Curtain.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:21:49.935Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 45,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
